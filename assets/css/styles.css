@@ -1660,6 +1660,11 @@ h2.animated-vertical-line.animated::before {
   background-position: center;
 }
 
+.page-header .imaginary-background::after {
+    background-image: url(/assets/images/imaginary);
+    background-position: center;
+}
+
 .page-header .scholarly-background::after {
   background-image: url(/assets/images/scholarly_activities_background.webp);
   background-position: center;
