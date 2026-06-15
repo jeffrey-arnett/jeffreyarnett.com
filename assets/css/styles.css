@@ -1661,7 +1661,7 @@ h2.animated-vertical-line.animated::before {
 }
 
 .page-header .imaginary-background::after {
-    background-image: url(/assets/images/imaginary-realities-pagetop.jpg);
+    background-image: url(/assets/images/imaginary-realities.jpg);
     background-position: center;
 }
 
