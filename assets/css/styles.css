@@ -722,12 +722,12 @@ p a:hover, p a:focus, .speaking .email-link:hover, .speaking .email-link:focus, 
   height: 100vh;
   z-index: 2;
   position: absolute;
-  right: 6rem;
+  right: 0;
   top: 0;
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
   padding-top: 65px;
 }
 
