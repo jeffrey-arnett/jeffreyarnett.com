@@ -133,8 +133,14 @@ p a:hover, p a:focus, .speaking .email-link:hover, .speaking .email-link:focus, 
 }
 
 .cs-button-home-wrapper {
+    width: 100%;
     display: flex;
     justify-content: center;
+    margin-top: 2rem;
+}
+
+.cs-button-home {
+    margin: 0 auto;
 }
 
 
