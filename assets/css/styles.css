@@ -1424,7 +1424,7 @@ h2.animated-vertical-line.animated::before {
     /* top: 2rem; */
   }
   .hero-right-content-wrapper {
-    text-align: left;
+    text-align: center;
   }
   .home-textbooks-inner {
     gap: clamp(1.5rem, 2.5vw, 2rem);
