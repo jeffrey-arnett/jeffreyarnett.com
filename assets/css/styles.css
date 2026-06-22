@@ -734,9 +734,9 @@ p a:hover, p a:focus, .speaking .email-link:hover, .speaking .email-link:focus, 
   top: 0;
   width: 100%;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
-  padding-top: 65px;
+  padding-top: 120px;
 }
 
 .hero-right-content-mobile {
