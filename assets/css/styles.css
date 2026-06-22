@@ -132,13 +132,13 @@ p a:hover, p a:focus, .speaking .email-link:hover, .speaking .email-link:focus, 
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 .cs-button-home-wrapper {
     width: 100%;
-    display: flex;
     justify-content: center;
-    margin-top: 2rem;
+    text-align: center;
 }
 
 .cs-button-home {
