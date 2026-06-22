@@ -119,7 +119,23 @@ p a:hover, p a:focus, .speaking .email-link:hover, .speaking .email-link:focus, 
   text-decoration: underline;
 }
 
+.featured-books {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 50px;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
 
+.hero-right-content-wrapper {
+    text-align: center;
+}
+
+.cs-button-home-wrapper {
+    display: flex;
+    justify-content: center;
+}
 
 
 
