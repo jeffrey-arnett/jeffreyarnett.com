@@ -1385,9 +1385,39 @@ h2.animated-vertical-line.animated::before {
 
 
 @media only screen and (max-width: 768px) {
+  @media (max-width: 768px) {
+
+  .featured-books {
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+  }
+
   .hero-book-cover {
     width: 250px;
   }
+
+  .read-sample {
+    width: 80px;
+    height: 80px;
+    right: -30px;
+    top: 15px;
+  }
+
+  .hero-right-content {
+    position: relative;
+    height: auto;
+    min-height: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  #hero {
+    height: auto;
+    min-height: auto;
+  }
+
+}
 
   .featured-books {
     flex-direction: column;
@@ -1400,7 +1430,7 @@ h2.animated-vertical-line.animated::before {
   .cs-text {
     font-size: clamp(1.5rem, 3vw, 1.8rem);
   } */
-}
+
 
 /* @media only screen and (max-width: 1400px) {
   .cs-title {
