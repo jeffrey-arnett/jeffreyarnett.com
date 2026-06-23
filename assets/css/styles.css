@@ -640,7 +640,18 @@ p a:hover, p a:focus, .speaking .email-link:hover, .speaking .email-link:focus, 
 .cs-button-light:hover .cs-icon path {
 
 }
+.book-feature {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.book-button-wrapper {
+    margin-top: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 
 
 
