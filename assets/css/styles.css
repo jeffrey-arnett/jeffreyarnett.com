@@ -1384,10 +1384,16 @@ h2.animated-vertical-line.animated::before {
 }
 
 
-@media only screen and (max-width: 1780px) {
+@media only screen and (max-width: 768px) {
   .hero-book-cover {
-    width: 380px;
+    width: 250px;
   }
+
+  .featured-books {
+    flex-direction: column;
+    gap: 2rem;
+  }
+}
   /* .cs-title {
     font-size: clamp(3rem, 8vw, 6rem);
   }
