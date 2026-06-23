@@ -758,7 +758,7 @@ p a:hover, p a:focus, .speaking .email-link:hover, .speaking .email-link:focus, 
 }
 
 .hero-book-cover {
-  width: 320px;
+  width: 450px;
   position: relative;
   filter: drop-shadow(rgba(0,0,0,0.3) .3rem .3rem 3px);
   /* box-shadow:5px 5px rgba(0,0,0,0.3); */
