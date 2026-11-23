@@ -1271,6 +1271,14 @@ h2.animated-vertical-line.animated::before {
   justify-content: center;
 }
 
+.media-events-wrapper {
+  background-color: #ADD8E6;
+  padding: 3rem 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
 .latest-events h2 {
   /* color: #fff; */
   margin: 0;
