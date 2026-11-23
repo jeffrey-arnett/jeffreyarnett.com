@@ -1391,6 +1391,11 @@ h2.animated-vertical-line.animated::before {
   justify-content: center;
 }
 
+.media-events {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
 @media only screen and (max-width: 768px) {
   @media (max-width: 768px) {
 
